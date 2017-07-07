@@ -1,6 +1,6 @@
 ## ImportReplacePlugin
 
-[NativeScript](https://www.nativescript.org/) webpack plugin to rewrite various imports with the `.ios` or `.android` platform suffix to allow various Angular Components, Directives, or Pipes to properly AoT compile when building a NativeScript for Angular app.
+[NativeScript](https://www.nativescript.org/) webpack plugin to rewrite various imports with the `.ios` or `.android` platform suffix to allow various [Angular](https://angular.io/) Components, Directives, or Pipes to properly AoT compile when building a NativeScript for Angular app.
 
 ## Usage
 
