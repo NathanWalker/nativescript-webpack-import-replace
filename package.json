@@ -1,0 +1,23 @@
+{
+  "name": "nativescript-webpack-import-replace",
+  "version": "1.0.0",
+  "description": "Replace imports with .ios or .android suffix for target mobile platforms.",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "engines": {
+    "node": ">= 4.3 < 5.0.0 || >= 5.10"
+  },
+  "author": {
+    "name": "Nathan Walker",
+    "url": "http://github.com/NathanWalker"
+  },
+  "keywords": [
+    "webpack",
+    "nativescript"
+  ],
+  "homepage": "https://github.com/NathanWalker/nativescript-webpack-import-replace",
+  "repository": "NathanWalker/nativescript-webpack-import-replace",
+  "license": "MIT"
+}
