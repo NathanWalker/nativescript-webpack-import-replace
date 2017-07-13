@@ -15,7 +15,8 @@
   },
   "keywords": [
     "webpack",
-    "nativescript"
+    "nativescript",
+    "angular"
   ],
   "homepage": "https://github.com/NathanWalker/nativescript-webpack-import-replace",
   "repository": "NathanWalker/nativescript-webpack-import-replace",
