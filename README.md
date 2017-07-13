@@ -12,15 +12,10 @@ function getPlugins(platform, env) {
       ...
       new ImportReplacePlugin({
           debug: true, // optional 
-          platform: platform,
-          files: [
-              'slider.directive'
-          ]
+          platform: platform
       }),
       ...
 ```
-
-The `files` collection can be a list of import names or even the component/directive/pipe names like `SlimSliderDirective` for example. The plugin will find the import and add the proper platform ending to the import to allow a proper AoT compile of your NativeScript for Angular app.
 
 ### LICENSE
 
