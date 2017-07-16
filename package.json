@@ -18,6 +18,19 @@
     "nativescript",
     "angular"
   ],
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    },
+    "plugin": {
+      "nan": "false",
+      "pan": "false",
+      "core3": "true",
+      "webpack": "true",
+      "category": "Developer"
+    }
+  },
   "homepage": "https://github.com/NathanWalker/nativescript-webpack-import-replace",
   "repository": "NathanWalker/nativescript-webpack-import-replace",
   "license": "MIT"
