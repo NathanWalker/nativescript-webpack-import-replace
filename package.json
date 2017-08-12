@@ -1,6 +1,6 @@
 {
   "name": "nativescript-webpack-import-replace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Replace imports with .ios or .android suffix for target mobile platforms.",
   "files": [
     "index.js",

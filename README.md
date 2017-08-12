@@ -42,7 +42,7 @@ The development and reason for the creation of this plugin will be featured in a
 
 ### CREDITS
 
-Huge thank you to [Stanimira Vlaeva](https://github.com/sis0k0).
+Huge thank you to [Stanimira Vlaeva](https://github.com/sis0k0) and [Alex Vakrilov](https://github.com/vakrilov).
 
 ### LICENSE
 
